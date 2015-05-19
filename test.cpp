@@ -81,4 +81,3 @@ int main()
     cout << "Average number of step: " << average_num_of_steps/50 << endl;
 }
 
-
